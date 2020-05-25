@@ -1,36 +1,36 @@
 {
   "alfredtheme" : {
     "result" : {
-      "textSpacing" : 4,
+      "textSpacing" : 6,
       "subtext" : {
-        "size" : 11,
+        "size" : 14,
         "colorSelected" : "#DCDFE0FF",
         "font" : "System Light",
         "color" : "#898C8FFF"
       },
       "shortcut" : {
-        "size" : 16,
+        "size" : 20,
         "colorSelected" : "#5AF78DFF",
         "font" : "System Light",
         "color" : "#5AF78DFF"
       },
       "backgroundSelected" : "#33343DFF",
       "text" : {
-        "size" : 20,
+        "size" : 26,
         "colorSelected" : "#F95A55FF",
         "font" : "System Light",
         "color" : "#54C4FBFF"
       },
-      "iconPaddingHorizontal" : 5,
-      "paddingVertical" : 0,
-      "iconSize" : 40
+      "iconPaddingHorizontal" : 11,
+      "paddingVertical" : 7,
+      "iconSize" : 47
     },
     "search" : {
-      "paddingVertical" : 2,
+      "paddingVertical" : 3,
       "background" : "#272935FF",
       "spacing" : 10,
       "text" : {
-        "size" : 24,
+        "size" : 46,
         "colorSelected" : "#F92672FF",
         "font" : "System Light",
         "color" : "#F0F1EFFF"
@@ -39,13 +39,13 @@
     },
     "window" : {
       "color" : "#272935FF",
-      "paddingHorizontal" : 10,
-      "width" : 560,
+      "paddingHorizontal" : 0,
+      "width" : 683,
       "borderPadding" : 0,
       "borderColor" : "#272935FF",
       "blur" : 0,
       "roundness" : 5,
-      "paddingVertical" : 10
+      "paddingVertical" : 5
     },
     "credit" : "zeitchef",
     "separator" : {
